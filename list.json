@@ -1,0 +1,32 @@
+{
+    "tasks": [
+      {
+        "id": 0,
+        "title": "faty",
+        "description": "arr",
+        "location": "safi",
+        "time": "21:00",
+        "date": "2000-07-14",
+        "task_state": "completed"
+      },
+      {
+        "id": 1,
+        "title": "walae",
+        "description": "walae",
+        "location": "rabat",
+        "time": "20:00",
+        "date": "2003-06-26",
+        "task_state": "completed"
+      },
+      {
+        "id": 2,
+        "title": "chisi",
+        "description": "chisi",
+        "location": "casa",
+        "time": "10:00",
+        "date": "2000-07-14",
+        "task_state": "completed"
+      }
+    ]
+  }
+  
